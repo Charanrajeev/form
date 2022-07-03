@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>Registration Form</title>
@@ -57,7 +57,7 @@
                 <td><input type="number" id="name" name="pcode" placeholder="Enter your Pincode"></td>
             </tr>
             <tr>
-                <td><input type="checkbox" value="terms">Agree the terms and conditions.<a href=www.google.com><p>Know more.</p></a></a></td>
+                <td><input type="checkbox" value="terms">Agree the terms and conditions.<a href=www.google.com><p>Know more.</p></a></td>
             </tr>
             <tr>
                 <td align="center" colspan="2"><input type="submit" value="Submit">&nbsp;&nbsp;<input type="reset" value="reset"></td>
